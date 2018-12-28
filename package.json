@@ -1,8 +1,8 @@
 {
   "name": "@anmolm/react-use-checkbox",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "React Hook for toggling state of a checkbox",
-  "author": "@anmolm",
+  "author": "Anmol Maini <anmol.maini@gmail.com>",
   "license": "MIT",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -11,6 +11,13 @@
     "node": ">=8",
     "npm": ">=5"
   },
+  "repository": "https://github.com/anmolm96/react-use-checkbox",
+  "keywords": [
+    "react",
+    "hooks",
+    "checkbox",
+    "javascript"
+  ],
   "scripts": {
     "build": "rollup -c",
     "start": "rollup -c -w",

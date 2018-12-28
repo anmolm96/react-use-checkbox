@@ -1,5 +1,6 @@
 ## react-use-checkbox
----
+
+[![](https://img.shields.io/npm/v/@anmolm/react-use-checkbox.svg)](https://github.com/anmolm96/react-use-checkbox) [![](https://img.shields.io/bundlephobia/min/@anmolm/react-use-checkbox.svg)](https://github.com/anmolm96/react-use-checkbox)
 
 > ⚠️ Warning: Hooks are still in alpha, so only use this for experiments
 
